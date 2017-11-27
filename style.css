@@ -24,10 +24,6 @@ p.chu-dau-tu-content{padding-top:100px;line-height:25px;color:#000;text-align:ju
 }
 @media screen and (max-width:640px){.page-location .viewmore-map{margin-left:0;margin-bottom:30px;margin-top:20px}
 }
-.video{background:#024a56;color:#dbb8a4;padding:8px 15px;border-top-left-radius:23px;border-bottom-left-radius:23px;min-width:150px;cursor:pointer;font-size:11px;margin-bottom:5px;position:relative;right:-90px}
-.video span{margin-left:20px;font-weight:bold}
-.video.open span{display:inline}
-.video img{height:23px}
 .slider .carousel-indicators{bottom:80px}
 .frame-slide{position:absolute;bottom:-5px}
 a:hover,a:focus,a:visited{color:#127677;text-decoration:none}
@@ -159,8 +155,6 @@ img.img-responsive.logo01{margin-top:13px}
 }
 @media screen and (min-width:1680px){body{font-size:15px}
 .slider .slider-content{top:635px;left:600px}
-.video span{font-size:14px}
-.video{padding:12px 20px}
 .slider .carousel-indicators{bottom:123px}
 .slider .bx-wrapper .bx-controls{bottom:169px}
 .slider .bx-wrapper .bx-pager.bx-default-pager a{width:16px;height:16px}
